@@ -1,6 +1,11 @@
 #include "rdk.dtsi"
 
 &kscan0 {
-    row-gpios = ;
-    col-gpios = ;
+    row-gpios
+        = 
+        ;
+
+    col-gpios
+        = 
+        ;
 };
